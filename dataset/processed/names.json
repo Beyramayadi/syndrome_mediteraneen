@@ -1,0 +1,79 @@
+{
+  "first_names": {
+    "european_female": [
+      "Marie",
+      "Claire",
+      "Sophie",
+      "Camille",
+      "Julie",
+      "Émilie",
+      "Chloé",
+      "Laura",
+      "Alice",
+      "Manon"
+    ],
+    "european_male": [
+      "Jean",
+      "Thomas",
+      "Julien",
+      "Nicolas",
+      "Antoine",
+      "Pierre",
+      "Lucas",
+      "Maxime",
+      "Alexandre",
+      "Paul"
+    ],
+    "maghrebi_female": [
+      "Nadia",
+      "Amel",
+      "Leïla",
+      "Samira",
+      "Aicha",
+      "Inès",
+      "Meriem",
+      "Nour",
+      "Sabrina",
+      "Emna"
+    ],
+    "maghrebi_male": [
+      "Karim",
+      "Mehdi",
+      "Yassine",
+      "Amine",
+      "Rachid",
+      "Samir",
+      "Nabil",
+      "Walid",
+      "Sofiane",
+      "Boualem"
+    ]
+  },
+
+  "last_names": {
+    "european": [
+      "Martin",
+      "Bernard",
+      "Dubois",
+      "Thomas",
+      "Robert",
+      "Richard",
+      "Petit",
+      "Durand",
+      "Moreau",
+      "Laurent"
+    ],
+    "maghrebi": [
+      "Benali",
+      "Bensaïd",
+      "Bennani",
+      "Cherif",
+      "Mansouri",
+      "Amrani",
+      "Belkacem",
+      "Haddad",
+      "Saidi",
+      "Trabelsi"
+    ]
+  }
+}
